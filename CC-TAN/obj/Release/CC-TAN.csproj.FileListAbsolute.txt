@@ -1,0 +1,13 @@
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\CC-TAN.exe.config
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\CC-TAN.exe
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\CC-TAN.pdb
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.Design.resources.dll
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC-TAN.csprojResolveAssemblyReference.cache
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC_TAN.Form1.resources
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC_TAN.Properties.Resources.resources
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC-TAN.csproj.GenerateResource.Cache
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC-TAN.exe
+C:\Users\HuangJuiTe\Desktop\CC-TAN\CC-TAN\obj\Release\CC-TAN.pdb
